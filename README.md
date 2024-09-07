@@ -8,8 +8,8 @@
 <ul>
   <li>👀 I am interested in all natural sciences (mainly Physics and Mathematics), programming, poetry and writing</li>
   <li>🌱 I am currently learning RISC-V architecture and the ROOT framework</li>
-  <li>🔭 I am currently working on the Sedna project</li>
-  <li>🤔 I am looking for help with the Sedna project</li>
+  <li>🔭 I am currently working on the Ego project</li>
+  <li>🤔 I am looking for help with the Ego project</li>
   <li>👯 I am looking to collaborate on your projects too</li>
   <li>💞️ I am looking to push the limits of my knowledge about computers and statistic analysis</li>
   <li>💬 Ask me about what you want</li>
