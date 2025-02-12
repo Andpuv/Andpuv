@@ -1,27 +1,28 @@
 <h1 align="center">Welcome to this page 👋</h1>
 
-<p align="center"><i>I am Andrea,<br>always open to collaborate on interesting projects<br></i></p>
+<p align="center"><i>I am always open to collaborate on interesting projects<br></i></p>
 <p align="center">
   <img src="https://github.com/Andpuv/Andpuv/blob/main/res/crazy.gif" width=128px>
 </p>
 
 <ul>
-  <li>👀 I am interested in all natural sciences (mainly Physics and Mathematics), programming, poetry and writing</li>
-  <li>🌱 I am currently learning RISC-V architecture and the ROOT framework</li>
-  <li>🔭 I am currently working on the Ego project</li>
-  <li>🤔 I am looking for help with the Ego project</li>
-  <li>👯 I am looking to collaborate on your projects too</li>
-  <li>💞️ I am looking to push the limits of my knowledge about computers and statistic analysis</li>
-  <li>💬 Ask me about what you want</li>
-  <li>😄 Pronouns: he/him/his</li>
+  <li>👀 I am interested in all natural sciences (mainly Physics, Mathematics, and Computer Science), programming, poetry and writing;</li>
+  <li>🌱 I am currently learning AI, Intel Loihi neuromorphic processors, ARM64 and RISC-V architectures, and the ROOT framework;</li>
+  <li>🔭 I am currently working on the Ego project;</li>
+  <li>🤔 I am looking for help with the Ego project, and other stuff;</li>
+  <li>👯 I am looking to collaborate on your projects too, especially if they need low-level programming;</li>
+  <li>💞️ I am looking to push the limits of my knowledge about computers, statistical analysis, neurocomputing, and much more;</li>
+  <li>💬 Ask me about what you want, even philosophical or spiritual questions ☯️</li>
+  <li>😄 Pronouns: Since I consider myself human, I would say the made up pronouns "hu"/"hus"/"hum" 😁 would be fine. If you don't like them, use whatever pronoun you want.</li>
   <li>⚡ Fun facts:
     <ol type="1">
-      <li>I am not that fast at typing</li>
-      <li>I am a serial procrastinator when demotivated</li>
-      <li>I have too many ideas for one person</li>
+      <li>I am seriously obsessed with perfection, elegance, and order but deep down I am an adventurer who ends up following the winds;</li>
+      <li>I do not believe in God or other supernatural entities, however I am very fascinated by the evolution of complex systems, including human societies, so it is not difficult to see me read religious or spiritual material;</li>
+      <li>I code mostly in C which I find to be the most fascinating language in the world due to its simplicity. Generally, I don't need high level stuff (OOP, inheritance, interfaces, etc.) but you can notice that I miss that since I tend to reproduce its syntax in my sources;<li>
+      <li>I have too many ideas for one person.</li>
     </ol>
   <li>📫 How to reach me:
-    <a href="mailto:andpuv.dev@gmail.com">
+    <a href="mailto:andpuv@proton.me">
       <img src="https://github.com/Andpuv/Andpuv/blob/main/res/email.gif" width=48px>
     </a> or
     <a href="https://github.com/Andpuv">
@@ -56,8 +57,6 @@
 [![C++](https://img.shields.io/badge/c++-black?style=for-the-badge&logo=cplusplus)](https://devdocs.io/cpp/)
 [![Bash](https://img.shields.io/badge/bash-black?style=for-the-badge&logo=gnu-bash&logoColor=white)](https://www.gnu.org/savannah-checkouts/gnu/bash/manual/bash.html)
 [![Python](https://img.shields.io/badge/python-black?style=for-the-badge&logo=python)](https://www.python.org/doc/)
-[![MySQL](https://img.shields.io/badge/sql-black?style=for-the-badge&logo=mysql)](https://dev.mysql.com/doc/)
-[![PHP](https://img.shields.io/badge/php-black?style=for-the-badge&logo=php)](https://www.php.net/docs.php)
 
 <h3 align="left">C/C++ Libraries and Frameworks</h3>
 
