@@ -18,7 +18,7 @@
     <ol type="1">
       <li>I am seriously obsessed with perfection, elegance, and order but deep down I am an adventurer who ends up following the winds;</li>
       <li>I do not believe in God or other supernatural entities, however I am very fascinated by the evolution of complex systems, including human societies, so it is not difficult to see me read religious or spiritual material;</li>
-      <li>I code mostly in C which I find to be the most fascinating language in the world due to its simplicity. Generally, I don't need high level stuff (OOP, inheritance, interfaces, etc.) but you can notice that I miss that since I tend to reproduce its syntax in my sources;<li>
+      <li>I code mostly in C which I find to be the most fascinating language in the world due to its simplicity. Generally, I don't need high level stuff (OOP, inheritance, interfaces, etc.) but you can notice that I miss that since I tend to reproduce its syntax in my sources;</li>
       <li>I have too many ideas for one person.</li>
     </ol>
   <li>📫 How to reach me:
