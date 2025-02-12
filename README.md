@@ -13,13 +13,13 @@
   <li>👯 I am looking to collaborate on your projects too, especially if they need low-level programming;</li>
   <li>💞️ I am looking to push the limits of my knowledge about computers, statistical analysis, neurocomputing, and much more;</li>
   <li>💬 Ask me about what you want, even philosophical or spiritual questions ☯️;</li>
-  <li>😄 Pronouns: Since I consider myself human, I would say the made up pronouns "hu"/"hus"/"hum" 😁 would be fine. If you do not like them, use whatever pronoun you want.</li>
+  <li>😄 Pronouns: Since I consider myself human, I would say the made up pronouns "hu"/"hus"/"hum" 😁 would be fine. If you do not like them, use whatever pronoun you want;</li>
   <li>⚡ Fun facts:
     <ol type="1">
       <li>I am seriously obsessed with perfection, elegance, and order but deep down I am an adventurer who ends up following the winds;</li>
       <li>I do not believe in God or other supernatural entities, however I am very fascinated by the evolution of complex systems, including human societies, so it is not difficult to see me read religious or spiritual material;</li>
       <li>I code mostly in C which I find to be the most fascinating language in the world due to its simplicity. Generally, I don't need high level stuff (OOP, inheritance, interfaces, etc.) but you can notice that I miss that since I tend to reproduce its syntax in my sources;</li>
-      <li>I always try to be formal even when I should not... like here;</li>li>
+      <li>I always try to be formal even when I should not... like here;</li>
       <li>I have too many ideas for one person.</li>
     </ol>
   <li>📫 How to reach me:
