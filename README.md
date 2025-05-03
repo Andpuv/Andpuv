@@ -8,8 +8,8 @@
 <ul>
   <li>👀 I am interested in all natural sciences (mainly Physics, Mathematics, and Computer Science), programming, poetry and writing;</li>
   <li>🌱 I am currently learning AI, Intel Loihi neuromorphic processors, ARM64 and RISC-V architectures, and the ROOT framework;</li>
-  <li>🔭 I am currently working on the Ego project;</li>
-  <li>🤔 I am looking for help with the Ego project, and other stuff;</li>
+  <li>🔭 I am currently working on the LIME project;</li>
+  <li>🤔 I am looking for help with the LIME project, and other stuff;</li>
   <li>👯 I am looking to collaborate on your projects too, especially if they need low-level programming;</li>
   <li>💞️ I am looking to push the limits of my knowledge about computers, statistical analysis, neurocomputing, and much more;</li>
   <li>💬 Ask me about what you want, even philosophical or spiritual questions ☯️;</li>
